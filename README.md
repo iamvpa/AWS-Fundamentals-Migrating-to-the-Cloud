@@ -5,7 +5,7 @@ This is my solution to all the quizzes of AWS Fundamentals: Migrating to the Clo
 # About this course
 
 This four week course focuses on migrating workloads to AWS.  We will focus on  analyzing your current environment, planning your migration, AWS services that are commonly used during your migration, and the actual migration steps. 
-*If you are new to AWS, we strongly suggest that you take “AWS Fundamentals: Going Cloud Native” (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native) course available on Coursera to provide an introduction to AWS concepts and services.
+***If you are new to AWS, we strongly suggest that you take “AWS Fundamentals: Going Cloud Native” (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native) course available on Coursera to provide an introduction to AWS concepts and services.
 
 # Certificate
 
