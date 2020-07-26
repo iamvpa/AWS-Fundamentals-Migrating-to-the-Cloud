@@ -1,4 +1,5 @@
 #  AWS Fundamentals: Migrating to the Cloud (Coursera)
+[![pub package](https://img.shields.io/badge/iamvpa-FPS%20Coder-green)](https://pub.dartlang.org/packages/flutter_tags)
 
 This is my solution to all the quizzes of AWS Fundamentals: Migrating to the Cloud(Coursera) taught by Seph Robinson and Sean Rinn. After completing this course you will get a broad idea of AWS Fundamentals. Try to solve all the quizzes by yourself first, but if you get stuck somewhere then feel free to browse the repository.
 
